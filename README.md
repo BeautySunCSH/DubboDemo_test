@@ -293,6 +293,10 @@ invoke  服务提供者接口名.方法名(入参)
 ![ALT text](./1664024107383.png)
 
 
+dubbo invoke调用入参书写方式(来自CSDN)
+https://blog.csdn.net/Dongguabai/article/details/117416348
+
+
 
 
 
