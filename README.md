@@ -284,6 +284,15 @@ public class Consumer {
 整个项目的代码已经上传到我的github上，欢迎查看。
 
 
+使用invoke调用dubbo远程服务接口
+telnet 提供者ip  服务提供者端口
+连接上后，排回车会出现dubbo>符号
+ls可以查看到自己想要调用的服务接口名
+invoke  服务提供者接口名.方法名(入参)
+见下图所示：
+![ALT text](./1664024107383.png)
+
+
 
 
 
